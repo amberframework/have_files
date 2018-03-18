@@ -1,5 +1,7 @@
 # have_files
 
+> **Note:** Fork with temporal compatibility fix, see: [mosop/have_files#pulls](https://github.com/mosop/have_files/pulls)
+
 A Crystal Spec/spec2 matcher for testing if two file trees are identical.
 
 [![Build Status](https://travis-ci.org/mosop/have_files.svg?branch=master)](https://travis-ci.org/mosop/have_files)
@@ -15,7 +17,7 @@ Add this to your application's `shard.yml`:
 ```yaml
 dependencies:
   have_files:
-    github: mosop/have_files
+    github: amberframework/have_files
 ```
 
 ## Usage
