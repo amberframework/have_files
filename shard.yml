@@ -1,12 +1,11 @@
 name: have_files
-version: 0.3.4
-
+version: 0.4.0
 authors:
   - mosop
 
 license: MIT
 
-crystal: 0.23.1
+crystal: 0.24.1
 
 dependencies:
   stdio:
@@ -16,4 +15,4 @@ dependencies:
 development_dependencies:
   spec2:
     github: waterlink/spec2.cr
-    version: ~> 0.9
+    version: ~> 0.11.0
